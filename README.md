@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/missakhirah_" target="blank"><img src="https://img.shields.io/twitter/follow/missakhirah_?logo=twitter&style=for-the-badge" alt="missakhirah_" /></a> </p>
 
-- 🌱 I’m currently learning **(Numpy)||(Pandas)||(Tensorflow)**
+- 🌱 I’m currently Searching **Data Scientist Role**
 
-- 💬 Ask me about **Pthon,Sql,Power Bi, Advanced Excel**
+- 💬 Ask me about **Fruitfull Data for Your Business, Recommendation Action For youyr Project | Pthon,Sql,Power Bi, Machine Learning**
 
 - 📫 How to reach me **kashishn754@gmail.com**
 
-- ⚡ Fun fact **I Followed My Heart**
+- ⚡ Fun fact **I dont like joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
