@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm 𝓚𝓪𝓼𝓱𝓲𝓼𝓱 𝓝𝓪𝓪𝔃</h1>
-<h3 align="center">A Data Analyst from India</h3>
+<h3 align="center">Aspiring Data Science Professional from India</h3>
 <img align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif"/>
 
 <p align="left"> <a href="https://twitter.com/missakhirah_" target="blank"><img src="https://img.shields.io/twitter/follow/missakhirah_?logo=twitter&style=for-the-badge" alt="missakhirah_" /></a> </p>
 
 - 🌱 I’m currently Searching **Data Scientist Role**
 
-- 💬 Ask me about **Fruitfull Data for Your Business, Recommendation Action For youyr Project | Pthon,Sql,Power Bi, Machine Learning**
+- 💬 Ask me about **Valuable Insights for Your Business| Suggested Step For Your Project| Pthon,Sql,Power Bi, Machine Learning**
 
 - 📫 How to reach me **kashishn754@gmail.com**
 
